@@ -1,4 +1,4 @@
-# Prodigy InfoTech WD Internship Task-02: Stopwatch
+# Prodigy InfoTech Web Development Internship Task-02: Stopwatch
 
 ## Overview
 
